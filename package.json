@@ -1,0 +1,14 @@
+{
+  "name": "njs-bigaibot-ioserver",
+  "version": "1.0.0",
+  "description": "njsBigaibotIOServer",
+  "main": "app.js",
+  "author": {
+    "name": "Administrator"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.1.1",
+    "socket.io-client": "^2.1.1"
+  }
+}
